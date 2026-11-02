@@ -1,0 +1,10 @@
+{
+  "client_id": "https://bostalowski.github.io/obeya-board-oauth-client/write-client.json",
+  "client_name": "Obeya board (Orca plugin) - link a PR",
+  "client_uri": "https://bostalowski.github.io/obeya-board-oauth-client/",
+  "redirect_uris": ["http://127.0.0.1/callback", "http://localhost/callback", "https://bostalowski.github.io/obeya-board-oauth-client/callback.html"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp:write"
+}

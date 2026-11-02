@@ -15,5 +15,5 @@
     "code"
   ],
   "token_endpoint_auth_method": "none",
-  "scope": "mcp:read mcp:write offline_access"
+  "scope": "mcp:read offline_access"
 }
